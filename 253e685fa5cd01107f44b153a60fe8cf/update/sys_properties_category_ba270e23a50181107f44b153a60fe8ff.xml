@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties_category">
+    <sys_properties_category action="INSERT_OR_UPDATE">
+        <name>Loaner Request</name>
+        <sys_class_name>sys_properties_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-01-20 19:35:34</sys_created_on>
+        <sys_id>ba270e23a50181107f44b153a60fe8ff</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Loaner Request</sys_name>
+        <sys_package display_value="Loaner Request" source="x_cdltd_loaner_req">253e685fa5cd01107f44b153a60fe8cf</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">253e685fa5cd01107f44b153a60fe8cf</sys_scope>
+        <sys_update_name>sys_properties_category_ba270e23a50181107f44b153a60fe8ff</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-01-20 19:35:34</sys_updated_on>
+        <title><![CDATA[<p>Loaner Request Properties</p>
+<p> </p>
+<p>Sensors indicate no shuttle or other ships in this sector. According to coordinates, we have travelled 7,000 light years and are located near the system J-25. Tractor beam released, sir. Force field maintaining our hull integrity. Damage report? Sections 27, 28 and 29 on decks four, five and six destroyed. Without our shields, at this range it is probable a photon detonation could destroy the Enterprise.</p>]]></title>
+    </sys_properties_category>
+    <sys_translated_text action="delete_multiple" query="documentkey=ba270e23a50181107f44b153a60fe8ff"/>
+</record_update>
